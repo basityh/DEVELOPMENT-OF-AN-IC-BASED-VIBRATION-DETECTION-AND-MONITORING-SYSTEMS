@@ -1,0 +1,2 @@
+# DEVELOPMENT-OF-AN-IC-BASED-VIBRATION-DETECTION-AND-MONITORING-SYSTEMS
+The vibration detector uses an NE555 timer and a nail-spring analyser to detect vibrations and trigger an LED for real-time feedback. Powered by a 9V battery, it’s simple, cost-effective, and adjustable. Ideal for machinery monitoring, security, and education, it offers scope for enhancements like alarms or wireless connectivity.
